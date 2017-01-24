@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewFBauth</string>
+    <string name="facebook_app_id">1347858735270181</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fb_login_protocol_scheme">fbAPP_ID</string>
+</resources>

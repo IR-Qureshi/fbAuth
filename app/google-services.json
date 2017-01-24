@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092833936783",
+    "firebase_url": "https://newfbauth.firebaseio.com",
+    "project_id": "newfbauth",
+    "storage_bucket": "newfbauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092833936783:android:84867d926da0ddf3",
+        "android_client_info": {
+          "package_name": "com.example.dellpc.newfbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092833936783-ltd13bbd0idb21r234inq53ufp8sd9ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9RgkL0_5IiXgwBpd2YJwQkfi5AnTYjlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
